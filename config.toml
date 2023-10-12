@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "thecoffiest.com"
+base_url = "http://thecoffiest.com"
 
 theme = "adidoks"
 
