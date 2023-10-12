@@ -1,1 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Espresso Machines</title>
+</head>
+
+<body>
+    <h1>Espresso Machines</h1>
+
+    <div class="espresso-machine">
+        <h2>Espresso Machine 1</h2>
+        <p>Description: High-quality espresso machine with advanced features.</p>
+        <p>Review: Excellent machine, makes delicious espresso!</p>
+        <a href="link_to_purchase_1" target="_blank">Purchase Espresso Machine 1</a>
+    </div>
+
+    <div class="espresso-machine">
+        <h2>Espresso Machine 2</h2>
+        <p>Description: Compact espresso machine perfect for small kitchens.</p>
+        <p>Review: Great value for money, easy to use and clean.</p>
+        <a href="link_to_purchase_2" target="_blank">Purchase Espresso Machine 2</a>
+    </div>
+
+    <div class="espresso-machine">
+        <h2>Espresso Machine 3</h2>
+        <p>Description: Professional-grade espresso machine for coffee enthusiasts.</p>
+        <p>Review: Incredible machine, produces barista-quality espresso at home.</p>
+        <a href="link_to_purchase_3" target="_blank">Purchase Espresso Machine 3</a>
+    </div>
+
+</body>
+
+</html>
