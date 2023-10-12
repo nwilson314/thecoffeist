@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://nwilson314.github.io/thecoffeist"
+base_url = "thecoffiest.com"
 
 theme = "adidoks"
 
