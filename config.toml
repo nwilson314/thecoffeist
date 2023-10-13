@@ -1,5 +1,7 @@
 # The URL the site will be built for
 base_url = "https://thecoffeist.com"
+title = "The Coffeist"
+description = "Put description here."
 
 theme = "adidoks"
 
@@ -9,14 +11,37 @@ compile_sass = true
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = true
 
+# Whether to generate a feed file for the site
+generate_feed = true
+
 taxonomies = [
   {name = "authors"}, # Basic definition: no feed or pagination
 ]
 
+[search]
+# Whether to include the title of the page/section in the index
+include_title = true
+# Whether to include the description of the page/section in the index
+include_description = false
+# Whether to include the rendered content of the page/section in the index
+include_content = true
+
 [markdown]
 # Whether to do syntax highlighting
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
-highlight_code = false
+highlight_code = true
 
 [extra]
 # Put all your custom variables here
+author = "Nate Wilson"
+github = "https://github.com/nwilson314"
+twitter = "https://twitter.com/nwilson314"
+email = "nsw.wilson@gmail.com"
+
+# Set theme-color meta tag for Chrome browser
+theme_color = "#000"
+
+
+# Footer contents
+[extra.footer]
+info = 'Powered by <a href="https://www.getzola.org/">Zola</a> and <a href="https://github.com/aaranxu/adidoks">AdiDoks</a>'

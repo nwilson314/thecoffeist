@@ -29,23 +29,28 @@ title = "Security aware"
 content = 'Get A+ scores on <a href="https://observatory.mozilla.org/analyze/adidoks.org">Mozilla Observatory</a> out of the box. Easily change the default Security Headers to suit your needs.'
 
 [[extra.list]]
-title = "Fast by default ⚡️"
-content = 'Get 100 scores on <a href="https://googlechrome.github.io/lighthouse/viewer/?gist=7731347bb8ce999eff7428a8e763b637">Google Lighthouse</a> by default. Doks removes unused css, prefetches links, and lazy loads images.'
+title = "Espresso Machine 1"
+content = """
+    <p>Description: High-quality espresso machine with advanced features.</p> 
+    <p>Review: Excellent machine, makes delicious espresso!</p>
+    <a href="link_to_purchase_1" target="_blank">Purchase Espresso Machine 1</a>
+"""
 
 [[extra.list]]
-title = "SEO-ready"
-content = "Use sensible defaults for structured data, open graph, and Twitter cards. Or easily change the SEO settings to your liking."
+title = "Espresso Machine 2"
+content = """
+    <p>Description: Compact espresso machine perfect for small kitchens.</p>
+    <p>Review: Great value for money, easy to use and clean.</p>
+    <a href="link_to_purchase_2" target="_blank">Purchase Espresso Machine 2</a>
+"""
 
 [[extra.list]]
-title = "Full text search"
-content = "Search your Doks site with FlexSearch. Easily customize index settings and search options to your liking."
+title = "Espresso Machine 3"
+content = """
+    <p>Description: Professional-grade espresso machine for coffee enthusiasts.</p>
+    <p>Review: Incredible machine, produces barista-quality espresso at home.</p>
+    <a href="link_to_purchase_3" target="_blank">Purchase Espresso Machine 3</a>
+"""
 
-[[extra.list]]
-title = "Page layouts"
-content = "Build pages with a landing page, blog, or documentation layout. Add custom sections and components to suit your needs."
-
-[[extra.list]]
-title = "Dark mode"
-content = "Switch to a low-light UI with the click of a button. Change colors with variables to match your branding."
 
 +++
