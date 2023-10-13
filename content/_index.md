@@ -1,5 +1,5 @@
 +++
-title = "Modern Documentation Theme"
+title = "Modern Coffee Aesthetic"
 
 
 # The homepage contents
